@@ -1,0 +1,9 @@
+{
+    "name": "com.emptybraces.sprite_atlas_compression_checker",
+    "displayName": "SpriteAtlas CompressionMode Checker",
+    "author": "emptybraces",
+    "version": "1.0.0",
+    "unity": "2023.2",
+    "description": "Custom editor window that checks and fixes if the Sprite in SpriteAtlas is uncompressed.",
+    "dependencies": {}
+}
